@@ -1,5 +1,5 @@
 # Portfolio
-- Portfolio criado em React.js
+- Portfolio web responsivo criado em React.js
 ---------------------------------------------
 ## Tecnologias
 - React.js
