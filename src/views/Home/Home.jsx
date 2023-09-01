@@ -29,13 +29,11 @@ export const Home = () => {
               <Header />
               <Experience />
             </div>
-
             <div className="lg:flex lg:justify-around lg:items-center">
               <div className="flex flex-col justify-center items-center">
                 <Languages />
                 <Education />
               </div>
-
               <div className="flex justify-center items-center">
                 <SocialMedia />
               </div>
