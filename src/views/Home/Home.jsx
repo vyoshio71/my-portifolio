@@ -26,19 +26,13 @@ export const Home = () => {
           <Navbar />
           <div className="bg-gradient-to-r from-[#141e30] to-[#243b55] lg:h-screen flex flex-col justify-around">
             <div className="lg:flex lg:justify-around items-center lg:mt-8">
-              {/* Header */}
               <Header />
-
-              {/* Experience */}
               <Experience />
             </div>
 
             <div className="lg:flex lg:justify-around lg:items-center">
               <div className="flex flex-col justify-center items-center">
-                {/*  Languages */}
                 <Languages />
-
-                {/* Education */}
                 <Education />
               </div>
 

@@ -9,11 +9,10 @@ export const AboutView = () => {
     <>
       <Navbar />
       <div className="bg-gradient-to-r from-[#141e30] to-[#243b55] flex flex-col justify-between">
-        {/* Component profile*/}
         <Profile />
-        {/* component skill*/}
+
         <Skills />
-        {/* component projects*/}
+
         <Projects />
       </div>
       <Footer />
